@@ -1,1 +1,1 @@
-# practice_neural_networks_from_scratch_python
+# Build Neural Networks from Scratch Using Python
